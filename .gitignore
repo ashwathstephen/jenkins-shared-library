@@ -1,0 +1,21 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+build/
+target/
+out/
+
+# Test
+.pytest_cache/
+__pycache__/
+*.pyc
+
